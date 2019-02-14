@@ -18,3 +18,12 @@ List of girls names in capital letters
 
 ## [Girls Names Lower Case Letters](https://github.com/LinuxPhreak/crunch-wordlist/blob/master/itsagirl.txt.gz)
 List of girls names in lowercase letters
+
+## [Boys Names Capital Letters](https://github.com/LinuxPhreak/crunch-wordlist/blob/master/itsaboy-caps.txt.gz)
+List of boys names in capital letters
+
+## [Boys Names Lower Case Letters](https://github.com/LinuxPhreak/crunch-wordlist/blob/master/itsaboy.txt.gz)
+List of boys names in lowercase letters
+
+## [Social Security Numbers](https://github.com/LinuxPhreak/crunch-wordlist/blob/master/social-security-number.txt.gz)
+List of every possible social security number
